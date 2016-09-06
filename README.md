@@ -1,5 +1,5 @@
 # MetodeNumerik
-Just Simple Numeric Method Using Java
+Just Simple Numerical Method Using Java
 
 This is just simple numeric method using java :
 1. Table Method
